@@ -2,6 +2,8 @@
 
 This repository contains the Terraform configuration for building an **AWS Serverless Infrastructure**. The setup includes modular components for managing API Gateway, Lambda functions, IAM roles, RDS databases, and EventBridge schedulers. This architecture is designed for scalability, cost-efficiency, and ease of use, with clearly defined modules for reusability.
 
+![alt tag](tf_pro.png)
+
 ## Project Overview
 
 The **AWS Serverless Infrastructure** defined in this project enables efficient provisioning and management of serverless resources. The configuration is organized into reusable modules, making it easy to define resources like APIs, databases, and functions, while maintaining clear separation of concerns.
